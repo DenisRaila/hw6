@@ -18,6 +18,7 @@ moose, это американизм, при этом в US eng он все ра
 2.2
 
 ![](https://github.com/DenisRaila/hw6/blob/master/Снимок%20экрана%202018-04-10%20в%200.20.17.png)
+
 try/taste something
 try a trick
 taste victory
